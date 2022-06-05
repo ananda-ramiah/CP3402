@@ -1,6 +1,8 @@
 ## Learning Activities:
 
-- going back to read CP1406 note, watch lecture recodings and use CodeAcademy to retrieve priorer knowledge of how to make a website.
+- I watched the lecture recording on LearnJCU to inform myself on what is expected of me for this subject from the Subject Coordinator's point of view as I was informed that this subject is often under greater scrutiny.
+- I followed the tutorials on the JCU website to connect my LinkedIn to the LinkedIn Learning access offered by JCU. I then read the Subject Outline and saved all the Learning Resources(LinkedIn Learning courses) studied in this subject for easier access.
+- 
 
 ## Resources/Links:
 
