@@ -1,6 +1,7 @@
 ## Learning Activities:
 
 - I watched the lecture recording on LearnJCU to inform myself on what is expected of me for this subject from the Subject Coordinator's point of view as I was informed that this subject is often under greater scrutiny.
+- I rewent through my CP 1406 notes, practicals and assignments as I was my HTML and CSS skills were relatively rusty. I had a go with some coding as well and recalled many concepts from there.
 - I followed the tutorials on the JCU website to connect my LinkedIn to the LinkedIn Learning access offered by JCU. I then read the Subject Outline and saved all the Learning Resources(LinkedIn Learning courses) studied in this subject for easier access.
 - 
 
