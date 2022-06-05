@@ -1,6 +1,6 @@
 # CP3402 Learning Journal
 
-| Prac Weeks | [1](./Week_1.md) | [2](./Week_2.md) | [3](./Week_3.md) | [4](./Week_4.md) | [5](./Week_5.md) | [6](./Week_6.md) | [7](./Week_7.md) | [8](./Week_8.md) | [9](./Week_9.md) | [10](./Final-Journal.md) |
+| Practicals | [1](./Week_1.md) | [2](./Week_2.md) | [3](./Week_3.md) | [4](./Week_4.md) | [5](./Week_5.md) | [6](./Week_6.md) | [7](./Week_7.md) | [8](./Week_8.md) | [9](./Week_9.md) | [10](./Week_10.md) |
 | ---------- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 
 - [ ] Week 1
