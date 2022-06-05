@@ -7,8 +7,8 @@
 
 ## Resources/Links:
 
-- CodeAcademy(https://www.codecademy.com/learn/learn-html)
-- W3schools(https://www.w3schools.com/html/default.asp)
+- LearnJCU(https://learn.jcu.edu.au/ultra/courses/_162332_1/outline)
+- LinkedIn Learning(https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245)
 
 ## Estimated Hours:
 
