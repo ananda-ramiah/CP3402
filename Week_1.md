@@ -10,6 +10,7 @@
 - LearnJCU(https://learn.jcu.edu.au/ultra/courses/_162332_1/outline)
 - LinkedIn Learning(https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245)
 - Codepen(https://www.codepen.io)
+- Figma(https://www.figma.com/)
 
 ## Estimated Hours:
 
@@ -20,6 +21,5 @@ I made use of the Codepen interface to practice some HTML, CSS and Javascript me
 I was also introduced to a lot of different software used in the industry which I plan to try in my spare time.
 
 ## Career/Employability/Learning Insights:
-I found using CodeAcademy help a lot at explain and giving desciptive examples on how each part/module of HTML and CSS is used.
-With CodeAcademy help kept me engaged more in re-learning. I would see myself using Code Academy and some videos to help keep myself 
-engaged and split time with constate re-learning content or learning new content.
+I would usually just jump right into coding in Visual Studio without much planning and prepartion. However after using tools such as Figma and Codepen, I found it much easier to plan my work and would probably facilitate collaborative work or picking up work after a hiatus. 
+It was my first time using LinkedIn Learning and I really appreciate the course structure, assessment structure and length which kept me interested while not being too long winded or devoid of new information. This a great sign personally as I am aware that this course involves a lot of self-learning especially using videos available on LinkedIn Learning. I'm thrilled to progress through this course.
