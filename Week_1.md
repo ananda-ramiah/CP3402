@@ -4,6 +4,7 @@
 - I went through my CP 1406 notes, practicals, and assignments, and as I was my HTML and CSS skills, were relatively rusty. I had a go with some coding as well and recalled many concepts from there.
 - I followed the tutorials on the JCU website to connect my LinkedIn to the LinkedIn Learning access offered by JCU. I then read the Subject Outline and saved all the Learning Resources(LinkedIn Learning courses) studied in this subject for easier access.
 - This week's learning resource was once again a refresher on HTML, CSS, and Javascript but also delved deeper in terms of UX and UI issues and concepts than CP 1406. I found them to be deeply informative.
+- I got done with the the learning resource on Monday so I only had about 2 days to complete the Prac 1 so I used a template from W3Schools
 
 ## Resources/Links:
 
@@ -11,6 +12,7 @@
 - LinkedIn Learning(https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245)
 - Codepen(https://www.codepen.io)
 - Figma(https://www.figma.com/)
+- W3Schools(https://www.w3schools.com/)
 
 ## Estimated Hours:
 
