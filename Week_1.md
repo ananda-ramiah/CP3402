@@ -17,7 +17,7 @@
 
 ## Estimated Hours:
 
-14 hours (Across 2 days)
+10 hours (Across 2 days) + 7 hours for the Practical
 
 ## Content Insights:
 I made use of the Codepen interface to practice some HTML, CSS, and Javascript methods.
