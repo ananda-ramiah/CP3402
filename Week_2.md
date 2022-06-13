@@ -1,26 +1,22 @@
 ## Learning Activities:
 
-- I watched the lecture recording on LearnJCU to inform myself on what is expected of me for this subject from the Subject Coordinator's point of view as I was informed that this subject is often under greater scrutiny.
-- I went through my CP 1406 notes, practicals, and assignments, and as I was my HTML and CSS skills, were relatively rusty. I had a go with some coding as well and recalled many concepts from there.
-- I followed the tutorials on the JCU website to connect my LinkedIn to the LinkedIn Learning access offered by JCU. I then read the Subject Outline and saved all the Learning Resources(LinkedIn Learning courses) studied in this subject for easier access.
-- This week's learning resource was once again a refresher on HTML, CSS, and Javascript but also delved deeper in terms of UX and UI issues and concepts than CP 1406. I found them to be deeply informative.
-- I got done with the the learning resource on Monday so I only had about 2 days to complete the Prac 1 so I used a template from W3Schools
-- I had some trouble publishing my web site, since I ahd already redeemed my Siteground subscription in CP 1406. I struggled a bit to get Amazon Web Services and GitHub Pages to work. I got recommended 000webhost by a friend from another uni, but I managed to get GitHub Pages to work a few hours before the submission deadlines by following an online tutorial.
+- I watched the lecture recording on LearnJCU from the Townsville class and the following demos video on Vagrant and Joomla.
+- This week's learning resource was a deep-dive into WordPress usage and got introduced to the block based style structure. They also covered vastly the many types of media, layout and functionalities that can be displayed on WordPress.
+- 
 
 ## Resources/Links:
 
 - LearnJCU(https://learn.jcu.edu.au/ultra/courses/_162332_1/outline)
-- LinkedIn Learning(https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245)
-- Codepen(https://www.codepen.io)
-- Figma(https://www.figma.com/)
-- W3Schools(https://www.w3schools.com/)
+- LinkedIn Learning(https://www.linkedin.com/learning/wordpress-5-essential-training)
+- Local by FlyWheel(https://localwp.com/)
+-
 
 ## Estimated Hours:
 
-10 hours (Across 2 days) + 7 hours for the Practical
+5 hours + 3 hours for the Practical
 
 ## Content Insights:
-I made use of the Codepen interface to practice some HTML, CSS, and Javascript methods.
+I used the Local App, to create websites and practiced some WordPress page/post making by attempting to recreate templates from the internet.
 I was also introduced to a lot of different software used in the industry which I plan to try in my spare time.
 
 ## Career/Employability/Learning Insights:
