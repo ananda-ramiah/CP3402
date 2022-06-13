@@ -9,7 +9,7 @@
 - LearnJCU(https://learn.jcu.edu.au/ultra/courses/_162332_1/outline)
 - LinkedIn Learning(https://www.linkedin.com/learning/wordpress-5-essential-training)
 - Local by FlyWheel(https://localwp.com/)
--
+- Joomla(https://www.joomla.org/)
 
 ## Estimated Hours:
 
