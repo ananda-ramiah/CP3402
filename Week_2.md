@@ -17,7 +17,7 @@
 
 ## Content Insights:
 I used the Local App, to create websites and practiced some WordPress page/post making by attempting to recreate templates from the internet.
-I was also introduced to a lot of different software used in the industry which I plan to try in my spare time.
+
 
 ## Career/Employability/Learning Insights:
 - I would usually just jump right into coding in Visual Studio without much planning and preparation. However, after using tools such as Figma and Codepen, I found it much easier to plan my work and would probably facilitate collaborative work or picking up work after a hiatus.
