@@ -10,10 +10,11 @@
 - LinkedIn Learning(https://www.linkedin.com/learning/wordpress-5-essential-training)
 - Local by FlyWheel(https://localwp.com/)
 - Joomla(https://www.joomla.org/)
+- Vagrant(https://www.vagrantup.com/)
 
 ## Estimated Hours:
 
-5 hours + 3 hours for the Practical
+5 hours + 6 hours for the Practical
 
 ## Content Insights:
 I used the Local App, to create websites and practiced some WordPress page/post making by attempting to recreate templates from the internet.
