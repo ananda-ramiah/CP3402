@@ -14,7 +14,9 @@
 
 ## Estimated Hours:
 
-5 hours + 6 hours for the Practical
+- 1 hour to watch the Demos/Set up Vagrant
+- 5 hours for the LinkedInLearning course
+- 6 hours for the Practical
 
 ## Content Insights:
 I used the Local App, to create websites and practiced some WordPress page/post making by attempting to recreate templates from the internet.
