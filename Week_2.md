@@ -2,7 +2,8 @@
 
 - I watched the lecture recording on LearnJCU from the Townsville class and the following demos video on Vagrant and Joomla.
 - This week's learning resource was a deep-dive into WordPress usage and got introduced to the block based style structure. They also covered vastly the many types of media, layout and functionalities that can be displayed on WordPress.
-- 
+- It took me a serious while to get the Prac done as the local Joomla was difficult to install (I believe my SQL server couldn't be set up or my XAMPP was malfunctioning).
+- I ended up using the online hosted version of Joomla to create a website of a fictional esports organisation.
 
 ## Resources/Links:
 
@@ -16,13 +17,14 @@
 
 - 1 hour to watch the Demos/Set up Vagrant
 - 5 hours for the LinkedInLearning course
-- 6 hours for the Practical
+- 10+ hours for the Practical
 
 ## Content Insights:
-I used the Local App, to create websites and practiced some WordPress page/post making by attempting to recreate templates from the internet.
+- I used the Local App, to create websites and practiced some WordPress page/post making by attempting to recreate templates from the internet.
+- I found that not some learning resources on the internet of 2013 versions of Joomla still could provide decent insight into how to use te latest version despite havings different UIs. Though I should highlight the lack of online learning reources for Joomla's recent versions. Most pointed me towards plugins which made my website look like a Da Vinci masterpiece which wouldn't have been realistic.
+- I found out that Joomla is not going to be my cup of tea in the future and will likely proceed with a WordPress and hard-coded website for Assignment 1.
 
 
 ## Career/Employability/Learning Insights:
-- I would usually just jump right into coding in Visual Studio without much planning and preparation. However, after using tools such as Figma and Codepen, I found it much easier to plan my work and would probably facilitate collaborative work or picking up work after a hiatus.
-- It was my first time using LinkedIn Learning and I really appreciate the course structure, assessment structure, and length which kept me interested while not being too long-winded or devoid of new information. This is a great sign personally as I am aware that this course involves a lot of self-learning, especially using videos available on LinkedIn Learning. I'm thrilled to progress through this course.
-- It's been a while since I have hard coded (even if partially) a website and published it. Using these tools such as Amazon Web Services and GitHub Pages was very interesting and I did some personal research on how to use them which should help me in the future.
+  - This LinkedLearning course was about something compeltely new namely WordPress but it felt very long winded compared to last week and had me a bit bored at times. I know that this is another side of self-learning but it wasn't the most fun to say the least.
+  - If I am ever to use Joomla again, I will likely prefer to get training and support from a professional as I found it to be quite cumbersome and difficult to use. 
