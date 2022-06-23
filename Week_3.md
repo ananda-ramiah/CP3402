@@ -1,9 +1,8 @@
 ## Learning Activities:
 
-- I watched the lecture recording on LearnJCU from the Townsville class and the following demos video on Vagrant and Joomla.
-- This week's learning resource was a deep-dive into WordPress usage and got introduced to the block based style structure. They also covered vastly the many types of media, layout and functionalities that can be displayed on WordPress.
-- It took me a serious while to get the Prac done as the local Joomla was difficult to install (I believe my SQL server couldn't be set up or my XAMPP was malfunctioning).
-- I ended up using the online hosted version of Joomla to create a website of a fictional esports organisation.
+- I watched the lecture recording on LearnJCU from the Townsville class which was some of the lecture and a WordPress demo.
+- This week's learning resource built upon last week's resource which explained the basics of WordPress. They emphasized on specific workflows and strtegies which should result in greater efficiency when creating WordPress websites.
+-
 
 ## Resources/Links:
 
@@ -14,14 +13,14 @@
 
 ## Estimated Hours:
 
-- 1 hour to watch the Demos/Set up Vagrant
+- 2 hours to watch the Demos/explore Lindsay's GitHub
 - 5 hours for the LinkedInLearning course
 - 10+ hours for the Practical
 
 ## Content Insights:
-- I used the Local App, to create websites and practiced some WordPress page/post making by attempting to recreate templates from the internet.
-- I found that not some learning resources on the internet of 2013 versions of Joomla still could provide decent insight into how to use te latest version despite havings different UIs. Though I should highlight the lack of online learning reources for Joomla's recent versions. Most pointed me towards plugins which made my website look like a Da Vinci masterpiece which wouldn't have been realistic.
-- I found out that Joomla is not going to be my cup of tea in the future and will likely proceed with a WordPress and hard-coded website for Assignment 1.
+- The convenor is Townville used a VirtualMachine to set his WordPress which was rather intuitive and complex from my POV. I was informed that that was one of the ways to create a Linux environment so I might give it a try in the future weeks.
+- In the Joomla website I made last week about an esports organization, I had planned to have highlights of our gameplay embeded in the website. However, I didn't have such content at hand and did not upload it. This week I got more information on the hosting of the types of files as they would have used my hosting plan's bandwidth.
+- 
 
 
 ## Career/Employability/Learning Insights:
