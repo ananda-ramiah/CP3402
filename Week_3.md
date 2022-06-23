@@ -8,10 +8,9 @@
 ## Resources/Links:
 
 - LearnJCU(https://learn.jcu.edu.au/ultra/courses/_162332_1/outline)
-- LinkedIn Learning(https://www.linkedin.com/learning/wordpress-5-essential-training)
+- LinkedIn Learning(https://www.linkedin.com/learning/wordpress-workflows-2015)
 - Local by FlyWheel(https://localwp.com/)
-- Joomla(https://www.joomla.org/)
-- Vagrant(https://www.vagrantup.com/)
+- 
 
 ## Estimated Hours:
 
